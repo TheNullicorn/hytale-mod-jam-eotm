@@ -1,0 +1,28 @@
+{
+  "Model": "Items/Eotm_Cog/Eotm_Cog.blockymodel",
+  "Texture": "Items/Eotm_Cog/Eotm_Cog_Texture.png",
+  "MinScale": 1,
+  "MaxScale": 1,
+  "HitBox": {
+    "Min": {
+      "X": -0.352,
+      "Y": -0.065,
+      "Z": -0.352
+    },
+    "Max": {
+      "X": 0.352,
+      "Y": 0.065,
+      "Z": 0.352
+    }
+  },
+  "AnimationSets": {
+    "Idle": {
+      "Animations": [
+        {
+          "Animation": "Items/Eotm_Cog/Eotm_Cog_Spin_Clockwise.blockyanim",
+          "Looping": true
+        }
+      ]
+    }
+  }
+}
